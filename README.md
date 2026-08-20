@@ -1,9 +1,7 @@
 # Kaggle-AI-Report-2023
-The "Kaggle AI Report 2023" repository houses my notebook from a recent Kaggle competition that I participated in.
+
+The [Kaggle AI Report 2023](https://www.kaggle.com/code/nibeditasahu/kaggle-ai-report-2023) repository houses my notebook from a recent Kaggle competition that I participated in.
 This competition provided an exciting opportunity to apply data science and artificial intelligence techniques to tackle a specific problem. In this repository, you will find my comprehensive report, detailing the approach, methodologies, and insights gained from analyzing the competition's dataset. The notebook showcases my skills in data preprocessing, feature engineering, model development, and evaluation. By sharing this repository, I aim to contribute to the data science community, inspire fellow enthusiasts, and foster collaboration.
-
-
-
 
 ## Competition Overview
 
@@ -23,7 +21,7 @@ In this notebook, I followed a systematic approach to solve the problem. The key
 
 To run the notebook successfully, you will need the following dependencies:
 
-- Python (version X.X.X)
+- Python (version X.X.X) 
 - Jupyter Notebook
 - Pandas
 - NumPy
@@ -32,10 +30,11 @@ To run the notebook successfully, you will need the following dependencies:
 - Matplotlib
 - Seaborn
 
+`Python Version X.X.X` in the sense your current or latest version.
+
 You can install these dependencies using the following command:
 
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-
+> pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 
 ## Usage
 
@@ -54,7 +53,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the Apache 2.0 open source license.
-
-
-
+This project is licensed under [LICENSE](LICENSE).
